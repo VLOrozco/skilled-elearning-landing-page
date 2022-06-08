@@ -127,6 +127,7 @@ body, html {
 
 .navbar {
   margin-bottom: 0.35rem;
+  margin-right: 0;
 }
 
 .header,
@@ -136,7 +137,8 @@ body, html {
 
 .title-container {
   background-color: transparent;
-  width: 100vw;
+  width: 343px;
+  padding-right: 0px;
 }
 
 .title, .description {
@@ -151,9 +153,8 @@ body, html {
 /* IMAGE */
 .hero-img {
   display: absolute;
-  object-fit: cover;
-  object-position: -43px 5%;
-  width: 120%;
+  object-fit: fill;
+  width: 100%;
   overflow-x: hidden;
 }
 
