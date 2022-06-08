@@ -455,7 +455,7 @@ body, html {
     line-height: 28px;
   }
   #picture {
-    content: url(/assets/image-hero-desktop.png);
+    content: url(assets/image-hero-desktop.png);
   }
   .picture {
     width: 50%;
