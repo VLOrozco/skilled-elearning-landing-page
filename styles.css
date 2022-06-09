@@ -337,17 +337,17 @@ body, html {
   .picture {
     position: absolute;
     width: 43%;
-    height: 20%;
-    top: 0;
+    height: 200%;
+    top: -10em;
     right: 0;
-    top: -2.5em;
+    overflow: hidden;
+    padding-left: 5em;
   }
   .hero-img {
     position: absolute;
-    object-fit: fill;
-    top: -11.5em;
-    left: 0;
-    width: 200%;
+    top: -7em;
+    left: -1em;
+    width: 190%;
   }
 
   #pop-courses {
