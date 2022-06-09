@@ -460,9 +460,10 @@ body, html {
   }
   .picture {
     width: 50%;
+    top: -12em;
   }
   .hero-img {
-    top: -16.3em;
+    top: -12.3em;
     left: 4.8em;
     width: 135%;
     z-index: 2;
