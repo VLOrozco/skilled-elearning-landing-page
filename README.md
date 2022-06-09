@@ -44,8 +44,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Code](https://github.com/VLOrozco/skilled-elearning-landing-page.git)
+- Live Site URL: [Skilled eLearning Landing Page](https://vlorozco.github.io/skilled-elearning-landing-page/)
 
 ---
 
